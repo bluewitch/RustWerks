@@ -1,2 +1,10 @@
 # RustWerks
-My book on Rust, notes, details, and references.
+My book (manifesto) on Rust, notes, details, and references.
+
+## Resource URLs
+- []()
+- []()
+- []()
+- []()
+- []()
+
