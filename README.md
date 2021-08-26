@@ -26,6 +26,7 @@ My book (dwulf's manifesto) on Rust, notes, details, and references.
 
 ## Resource URLs
 - [Kerkour Bloom](https://kerkour.com/), Software development and security tips from the field.
+- [Blackhat Rust Github](https://github.com/skerkour/black-hat-rust), Code for the book
 - [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
 - []()
 - []()
