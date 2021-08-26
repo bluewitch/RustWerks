@@ -25,8 +25,8 @@ My book (dwulf's manifesto) on Rust, notes, details, and references.
 > we code it in Rust
 
 ## Resource URLs
-- [Kerkour Bloom](https://kerkour.com/)
-- [Rust Cheats](https://cheats.rs/)
+- [Kerkour Bloom](https://kerkour.com/), Software development and security tips from the field.
+- [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
 - []()
 - []()
 - []()
