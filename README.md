@@ -1,7 +1,13 @@
 # RustWerks
 My book (dwulf's manifesto) on Rust, notes, details, and references.
 
+RustWerks is a manifesto for Rust specific development, but can be used 
+for any language.  I use Github's dev browser tool
+and VSCode IDE and have found it a great tool for development and git commits
+
 # - [Github Browser Dev Tool](https://github.dev/github/dev)
+
+
 
 ## In Rust we Trust:
 *~dwulf*
