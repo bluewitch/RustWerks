@@ -1,6 +1,8 @@
 # RustWerks
 My book (dwulf's manifesto) on Rust, notes, details, and references.
 
+# - [Github Browser Dev Tool](https://github.dev/github/dev)
+
 ## In Rust we Trust:
 *~dwulf*
 
