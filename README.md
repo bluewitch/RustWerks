@@ -46,6 +46,6 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 - [Blackhat Rust Github](https://github.com/skerkour/black-hat-rust), Code for the book
 - [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
 - [Crates Live](https://crates.live/rand/0.8.4)
-- []()
+- [Bevy Game Engine for Rust](https://bevyengine.org/)
 - []()
 
