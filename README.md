@@ -9,6 +9,8 @@ and VSCode IDE and have found it a great tool for development and git commits
 The Github Dev Tool is invoked by pointing your browser to a github on github.com,
 and pressing a '.' or the period button on your keyboard.  This will give in browser VSCode IDE
 
+# - [bors-ng](https://github.com/bors-ng/bors-ng)
+Bors-NG implements a continuous-testing workflow where the main branch never breaks. It integrates GitHub pull requests with a tool like Travis CI that runs your tests.
 
 ## In Rust we Trust:
 *~dwulf*
