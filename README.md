@@ -10,6 +10,16 @@ which is written in C++.
 There is also the mrustc (https://github.com/thepowersgang/mrustc) project that can be used for bootstrapping. 
 It compiles/transpiles Rust into C that can be compiled using something like Clang or GCC.
 
+Techically speaking, Rust is not "written in anything". It is a language, the syntax, the rules, operations, everything is defined as an abstract concept that eventually is meant to be transcribed to the machine code, that when fed to the computer, does stuff.
+
+A compiler is just a program that is transcribing a source code written in some language to the mentioned machine code. Like every other piece of software, it can be written in any language. Just like a Fibonacci sequence generator, like Fizzbuzz, like anything that does stuff. Input source code, output machine code.
+
+So at first, the source code written in Rust was compiled to the machine code with a compiler written in another language (OCaml apparently, but it can be done in any language, so let's tell that it was C). So you had a program written in C that took source code written in Rust and returned machine code that can be executed on a computer.
+
+Then after testing that the thing works, somebody wrote the program that does the same thing that this old C program did, but this time they written it in Rust. Then they compiled it with the C program.
+
+Now you have a compiled executable originally written in Rust that can compile new things. So we took the executable, compiled the source code and it turned out to work. Thus Rust "compiled itself".
+
 
 I use Github's dev browser tool
 and VSCode IDE and have found it a great tool for development and git commits
