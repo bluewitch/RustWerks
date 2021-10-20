@@ -7,6 +7,9 @@ The compiler is also not exclusively written in Rust
 with the actual code generation and low level optimizations happen through the LLVM library, 
 which is written in C++.
 
+There is also the mrustc (https://github.com/thepowersgang/mrustc) project that can be used for bootstrapping. 
+It compiles/transpiles Rust into C that can be compiled using something like Clang or GCC.
+
 
 I use Github's dev browser tool
 and VSCode IDE and have found it a great tool for development and git commits
