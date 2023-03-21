@@ -25,3 +25,7 @@ fn main() -> io::Result<()> {
     write!(stdout, "{}", termion::terminal::LeaveMouseMode)?;
     Ok(())
 }
+
+// This code uses the termion crate to capture keyboard events and print them to the console. 
+// The program listens for key events and prints the character associated with the key when it is pressed. 
+// The program exits when the "Esc" key is pressed.
