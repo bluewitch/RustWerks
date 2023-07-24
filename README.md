@@ -1,5 +1,5 @@
 # RustWerks
-![RustMain]("images/wasm-ferris.png")
+![RustMain](/images/wasm-ferris.png)
 
 My book (dwulf's manifesto) on Rust, notes, details, and references.
 
