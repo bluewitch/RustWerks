@@ -1,4 +1,6 @@
 # RustWerks
+![RustMain]("/images/wasm-ferris.png")
+
 My book (dwulf's manifesto) on Rust, notes, details, and references.
 
 RustWerks is a manifesto for Rust specific development and a complete deep dive into 
