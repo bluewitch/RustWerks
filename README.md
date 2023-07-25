@@ -1,5 +1,6 @@
 # RustWerks
-<img src="/images/wasm-ferris.png" alt="Alt text for the image" style="width:500px;height:450px;float:left;margin-right:10px;">
+<img src="/images/wasm-ferris.png" align="left" width="200px"/>
+some text floating around the image
 My book (dwulf's manifesto) on Rust, notes, details, and references.
 
 RustWerks is a manifesto for Rust specific development and a complete deep dive into 
