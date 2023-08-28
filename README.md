@@ -73,9 +73,17 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 - [Blackhat Rust Github](https://github.com/skerkour/black-hat-rust), Code for the book
 - [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
 - [Crates Live](https://crates.live/rand/0.8.4)
-
 - [Web3-Stack](https://github.com/open-web3-stack/open-runtime-module-library)
 
+## Rust Projects
+- [Cargo Lambda](https://github.com/cargo-lambda/cargo-lambda)
+- [C64](https://github.com/onnokort/semu-c64), yes this is C, but will be Rust
+- [BitTorrent client](https://github.com/gabrieldemian/vincenzo)
+- [rdpFX, A simple file explorer that was born because I wanted to learn the Rust language.](https://github.com/RickyDane/rdpFX)
+- []()
+- []()
+
+- 
 ---
 
 # [XCM Format (Dr Wood, Parity)](https://github.com/paritytech/xcm-format)
