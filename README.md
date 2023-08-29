@@ -80,7 +80,7 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 - [C64](https://github.com/onnokort/semu-c64), yes this is C, but will be Rust
 - [BitTorrent client](https://github.com/gabrieldemian/vincenzo)
 - [rdpFX, A simple file explorer that was born because I wanted to learn the Rust language.](https://github.com/RickyDane/rdpFX)
-- []()
+- [sudo-rs, A safety oriented and memory safe implementation of sudo and su written in Rust](https://github.com/memorysafety/sudo-rs)
 - []()
 
 - 
