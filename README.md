@@ -83,6 +83,7 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 - [sudo-rs, A safety oriented and memory safe implementation of sudo and su written in Rust](https://github.com/memorysafety/sudo-rs)
 - [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
 - [ebpfguard, a library for managing Linux security policies.](https://github.com/deepfence/ebpfguard)
+- [wasmsnark, A fast zkSnark proof and verifier and proof generator written in native Web Assembly.](https://github.com/iden3/wasmsnark)
 - []()
 
 - 
