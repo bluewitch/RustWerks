@@ -88,7 +88,7 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 - [hyper-fast, rust based very fast HTTP Web framework,much faster than actix and other frameworks](https://github.com/hyper-fast/hyper-fast)
 - [axum, is a web application framework that focuses on ergonomics and modularity.](https://github.com/tokio-rs/axum)
 - [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
-- 
+- [riscv-crypto, RISC-V cryptography extensions standardisation work](https://github.com/riscv/riscv-crypto)
 ---
 
 # [XCM Format (Dr Wood, Parity)](https://github.com/paritytech/xcm-format)
