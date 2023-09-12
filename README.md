@@ -65,7 +65,7 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 
 
 ## Rust Games URLs
-- [Bevy Game Engine for Rust](https://bevyengine.org/)
+
 
 
 ## Resource URLs
@@ -91,5 +91,22 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
 - [riscv-crypto, RISC-V cryptography extensions standardisation work](https://github.com/riscv/riscv-crypto)
 ---
+
+
+## Operating System:
+- [Theseus, is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧](https://github.com/theseus-os/Theseus)
+- [Redox, is an operating system written in Rust](https://github.com/redox-os/redox)
+
+## Game Engine:
+- [Bevy Game Engine org site](https://bevyengine.org/)
+- [Bevy, is a refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)
+- [Fyrox, 3D and 2D game engine written in Rust](https://github.com/FyroxEngine/Fyrox)
+
+## 
+
+
+
+
+
 
 # [XCM Format (Dr Wood, Parity)](https://github.com/paritytech/xcm-format)
