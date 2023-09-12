@@ -166,7 +166,15 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [engula, is a distributed key-value store, used as a cache, database, and storage engine](https://github.com/engula/engula)
 - [tikv, Distributed transactional key-value database, originally created to complement TiDB](https://github.com/tikv/tikv)
 - [skytable, is a fast, secure and reliable realtime NoSQL database](https://github.com/skytable/skytable)
-- 
+
+## Virtualization:
+- [firecracker, Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
+
+## Virtual Private Network:
+- [innernet, A private network system that uses WireGuard under the hood](https://github.com/tonarino/innernet)
+- [MASQ Node combines the benefits of VPN and Tor technology](https://github.com/MASQ-Project/Node)
+
+## 
 ---
 
 
