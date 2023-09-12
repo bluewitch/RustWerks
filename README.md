@@ -135,8 +135,17 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [dioxus, Fullstack GUI library for desktop, web, mobile](https://github.com/dioxuslabs/dioxus)
 - [yew, Rust / WASM framework for building client web apps](https://github.com/yewstack/yew)
 
-## 
+## Backend Web Framework:
+- [axum, Ergonomic and modular web framework built with Tokio, Tower, and Hyper](https://github.com/tokio-rs/axum)
+- [actix, Web is a powerful, pragmatic, and extremely fast web framework for Rust](https://github.com/actix/actix-web)
 
+## Fullstack Framework:
+- [MoonZoon, Rust Fullstack Framework](https://github.com/MoonZoon/MoonZoon)
+- [leptos, Build fast web applications with Rust](https://github.com/leptos-rs/leptos)
+
+## GUI Library:
+- [iced, A cross-platform GUI library for Rust, inspired by Elm](https://github.com/iced-rs/iced)
+- []()
 
 
 
