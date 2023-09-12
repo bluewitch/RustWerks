@@ -147,6 +147,27 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [iced, A cross-platform GUI library for Rust, inspired by Elm](https://github.com/iced-rs/iced)
 - [sycamore, A library for creating reactive web apps in Rust and WebAssembly](https://github.com/sycamore-rs/sycamore)
 
-## 
+## Matrix Protocol:
+- [fractal, (Client), Matrix group messaging app](https://gitlab.gnome.org/GNOME/fractal)
+- [Conduit,(Server) is a simple, fast and reliable chat server](https://gitlab.com/famedly/conduit)
+
+## Email Server:
+- [Stalwart Labs](https://github.com/stalwartlabs)
+- [Stalwart JMAP server](https://github.com/stalwartlabs/jmap-server)
+- [vSMTP, Next-gen Mail Transfer Agent (MTA)](https://github.com/viridIT/vSMTP)
+
+## Database and related tooling:
+- [rod, Rust Object Database](https://github.com/mmalmi/rod)
+- [SurrealDB, is an end-to-end cloud-native database](https://github.com/surrealdb/surrealdb)
+- [SQLx, is an async, pure Rust† SQL crate featuring compile-time checked queries without a DSL](https://github.com/launchbadge/sqlx)
+- [sea-orm, async & dynamic ORM for Rust](https://github.com/SeaQL/sea-orm)
+- [Neon, is a serverless open-source alternative to AWS Aurora Postgres](https://github.com/neondatabase/neon)
+- [async-graphql, A GraphQL server library implemented in Rust](https://github.com/async-graphql/async-graphql)
+- [engula, is a distributed key-value store, used as a cache, database, and storage engine](https://github.com/engula/engula)
+- [tikv, Distributed transactional key-value database, originally created to complement TiDB](https://github.com/tikv/tikv)
+- [skytable, is a fast, secure and reliable realtime NoSQL database](https://github.com/skytable/skytable)
+- 
+---
+
 
 # [XCM Format (Dr Wood, Parity)](https://github.com/paritytech/xcm-format)
