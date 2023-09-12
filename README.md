@@ -76,6 +76,7 @@ A sanity test is just a casual term to mean that you're testing/confirming/valid
 - [Web3-Stack](https://github.com/open-web3-stack/open-runtime-module-library)
 
 ## Rust Projects
+The following are Rust specific projects that I feel are good learning tools, I find that when I read code I can write it better.
 - [Cargo Lambda](https://github.com/cargo-lambda/cargo-lambda)
 - [C64](https://github.com/onnokort/semu-c64), yes this is C, but will be Rust
 - [BitTorrent client](https://github.com/gabrieldemian/vincenzo)
