@@ -105,9 +105,37 @@ The following are Rust specific projects that I feel are good learning tools, I 
 ## Social Media:
 - [Lemmy, A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
 - [Plume, is a federated blogging engine](https://github.com/Plume-org/Plume)
-- 
 
+## Media Player:
+- [Glide, Linux/macOS media player based on GStreamer and GTK](https://github.com/philn/glide)
 
+## Pastebin:
+- [Microbin, Secure, configurable file-sharing and URL shortening web app written in Rust.](https://github.com/szabodanika/microbin)
+
+## Code Forge:
+- [Gitoxide, git based VCS, Idiomatic, lean, fast & safe pure Rust implementation of Git](https://github.com/Byron/gitoxide)
+- [Pijul, (New VCS)](https://nest.pijul.com/pijul/pijul)
+
+## File Encryption Tool:
+- [Rage, A simple, modern, and secure file encryption tool, using the age format](https://github.com/str4d/rage)
+
+## Signing Tool:
+- [rust-minisign, A pure Rust implementation of the Minisign signature tool](https://github.com/jedisct1/rust-minisign)
+- [Signify, Create cryptographic signatures for files and verify them](https://github.com/badboy/signify-rs)
+
+## Static Site Generator:
+- [Zola, A fast static site generator in a single binary with everything built-in](https://github.com/getzola/zola)
+- [Cobalt, A static site generator written in Rust](https://github.com/cobalt-org/cobalt.rs)
+
+## Markdown based Doc Generator:
+- [mdBook, is a utility to create modern online books from Markdown files](https://github.com/rust-lang/mdBook)
+
+## Frontend Web Framework w/ WASM Support:
+- [Perseus, state-driven web development framework for Rust with full support for server-side rendering and static generation](https://github.com/framesurge/perseus)
+- [dioxus, Fullstack GUI library for desktop, web, mobile](https://github.com/dioxuslabs/dioxus)
+- [yew, Rust / WASM framework for building client web apps](https://github.com/yewstack/yew)
+
+## 
 
 
 
