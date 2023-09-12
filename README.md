@@ -174,7 +174,53 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [innernet, A private network system that uses WireGuard under the hood](https://github.com/tonarino/innernet)
 - [MASQ Node combines the benefits of VPN and Tor technology](https://github.com/MASQ-Project/Node)
 
-## 
+## BitTorrent (v1) Library:
+- [cratetorrent, A BitTorrent V1 engine library for Rust](https://github.com/mandreyel/cratetorrent)
+
+## IPFS Protocol Stack:
+- [iroh, Bytes, distributed](https://github.com/n0-computer/iroh)
+- [rust-libp2p, The Rust Implementation of the libp2p networking stack](https://github.com/libp2p/rust-libp2p)
+
+## Hypercore (Dat) Protocol Stack:
+- [Dat Rust](https://github.com/datrs)
+
+## Service Health Monitoring System:
+- [vigil, is an open-source Status Page you can host on your infrastructure](https://github.com/valeriansaliou/vigil)
+
+## Backup Tool:
+- [rdedup, Data deduplication engine, supporting optional compression and public key encryption](https://github.com/dpc/rdedup)
+
+## Container Registry:
+-[trow, Container Registry and Image Management for Kubernetes Clusters](https://github.com/ContainerSolutions/trow)
+
+## Captcha:
+- [mCaptcha, A no-nonsense CAPTCHA system with seamless UX | Backend component](https://github.com/mCaptcha/mCaptcha)
+
+## File Transfer:
+- [ffsend, Easily and securely share files from the command line](https://github.com/timvisee/ffsend)
+- [magic-wormhole, Rust implementation of Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole.rs)
+
+## Drive:
+- [dufs, distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav](https://github.com/sigoden/dufs)
+- [miniserve, A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP](https://github.com/svenstaro/miniserve)
+
+## File Synchronization:
+- [bita, Differential file synchronization over http](https://github.com/oll3/bita)
+
+## IDP:
+- [kanidm, A simple, secure and fast identity management platform](https://github.com/kanidm/kanidm)
+
+## Software Framework:
+- [tauri, Build smaller, faster, and more secure desktop applications with a web frontend](https://github.com/tauri-apps/tauri)
+
+## Music Server:
+- [polaris, is a music streaming application](https://github.com/agersant/polaris)
+
+## Link Shortener:
+- [hurlurl, A load balancing link shortener](https://github.com/lucasmerlin/hurlurl)
+
+## Packet Sniffer:
+- [wirefish, A blazingly fast multiplatform packet sniffer built with Tauri!](https://github.com/WirefishInc/wirefish)
 ---
 
 
