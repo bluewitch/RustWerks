@@ -102,7 +102,10 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [Bevy, is a refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)
 - [Fyrox, 3D and 2D game engine written in Rust](https://github.com/FyroxEngine/Fyrox)
 
-## 
+## Social Media:
+- [Lemmy, A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
+- [Plume, is a federated blogging engine](https://github.com/Plume-org/Plume)
+- 
 
 
 
