@@ -85,7 +85,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
 - [ebpfguard, a library for managing Linux security policies.](https://github.com/deepfence/ebpfguard)
 - [wasmsnark, A fast zkSnark proof and verifier and proof generator written in native Web Assembly.](https://github.com/iden3/wasmsnark)
-- []()
+- [llm, An ecosystem of Rust libraries for working with large language models](https://github.com/rustformers/llm)
 - [hyper-fast, rust based very fast HTTP Web framework,much faster than actix and other frameworks](https://github.com/hyper-fast/hyper-fast)
 - [axum, is a web application framework that focuses on ergonomics and modularity.](https://github.com/tokio-rs/axum)
 - [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
