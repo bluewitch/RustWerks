@@ -87,7 +87,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [wasmsnark, A fast zkSnark proof and verifier and proof generator written in native Web Assembly.](https://github.com/iden3/wasmsnark)
 - [llm, An ecosystem of Rust libraries for working with large language models](https://github.com/rustformers/llm)
 - [hyper-fast, rust based very fast HTTP Web framework,much faster than actix and other frameworks](https://github.com/hyper-fast/hyper-fast)
-- [axum, is a web application framework that focuses on ergonomics and modularity.](https://github.com/tokio-rs/axum)
+- [faer-rs, Linear algebra foundation for the Rust programming language ](https://github.com/sarah-ek/faer-rs)
 - [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
 - [riscv-crypto, RISC-V cryptography extensions standardisation work](https://github.com/riscv/riscv-crypto)
 ---
