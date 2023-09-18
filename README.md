@@ -55,14 +55,6 @@ Bors-NG implements a continuous-testing workflow where the main branch never bre
 > To simplify,
 > we code it in Rust
 
-## Sanity Check
----
-Sanity testing is performed to ensure that the code changes that are made are working as properly. 
-Sanity testing is a stoppage to check whether testing for the build can proceed or not. 
-The focus of the team during sanity testing process is to validate the functionality of the application and not detailed testing.
-A sanity test isn't limited in any way to the context of programming or software engineering. 
-A sanity test is just a casual term to mean that you're testing/confirming/validating something that should follow very clear and simple logic.
-
 
 ## Rust Games URLs
 
@@ -91,6 +83,9 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
 - [riscv-crypto, RISC-V cryptography extensions standardisation work](https://github.com/riscv/riscv-crypto)
 ---
+
+## A.I.
+
 
 
 ## Operating System:
