@@ -66,28 +66,22 @@ Bors-NG implements a continuous-testing workflow where the main branch never bre
 - [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
 - [Crates Live](https://crates.live/rand/0.8.4)
 - [Web3-Stack](https://github.com/open-web3-stack/open-runtime-module-library)
+- [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
 
 ## Rust Projects
 The following are Rust specific projects that I feel are good learning tools, I find that when I read code I can write it better.
-- [Cargo Lambda](https://github.com/cargo-lambda/cargo-lambda)
-- [C64](https://github.com/onnokort/semu-c64), yes this is C, but will be Rust
-- [BitTorrent client](https://github.com/gabrieldemian/vincenzo)
-- [rdpFX, A simple file explorer that was born because I wanted to learn the Rust language.](https://github.com/RickyDane/rdpFX)
-- [sudo-rs, A safety oriented and memory safe implementation of sudo and su written in Rust](https://github.com/memorysafety/sudo-rs)
-- [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
-- [ebpfguard, a library for managing Linux security policies.](https://github.com/deepfence/ebpfguard)
-- [wasmsnark, A fast zkSnark proof and verifier and proof generator written in native Web Assembly.](https://github.com/iden3/wasmsnark)
-- [llm, An ecosystem of Rust libraries for working with large language models](https://github.com/rustformers/llm)
-- [hyper-fast, rust based very fast HTTP Web framework,much faster than actix and other frameworks](https://github.com/hyper-fast/hyper-fast)
-- [faer-rs, Linear algebra foundation for the Rust programming language ](https://github.com/sarah-ek/faer-rs)
-- [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
-- [riscv-crypto, RISC-V cryptography extensions standardisation work](https://github.com/riscv/riscv-crypto)
+
 ---
-
 ## A.I.
+- [llm, An ecosystem of Rust libraries for working with large language models](https://github.com/rustformers/llm)
 
+## Lambda
+- [Cargo Lambda](https://github.com/cargo-lambda/cargo-lambda)
 
+## Linear Algebra
+- [faer-rs, Linear algebra foundation for the Rust programming language ](https://github.com/sarah-ek/faer-rs)
 
+---
 ## Operating System:
 - [Theseus, is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧](https://github.com/theseus-os/Theseus)
 - [Redox, is an operating system written in Rust](https://github.com/redox-os/redox)
@@ -96,6 +90,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [Bevy Game Engine org site](https://bevyengine.org/)
 - [Bevy, is a refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)
 - [Fyrox, 3D and 2D game engine written in Rust](https://github.com/FyroxEngine/Fyrox)
+- [C64](https://github.com/onnokort/semu-c64), yes this is C, but will be Rust
 
 ## Social Media:
 - [Lemmy, A link aggregator and forum for the fediverse](https://github.com/LemmyNet/lemmy)
@@ -113,6 +108,15 @@ The following are Rust specific projects that I feel are good learning tools, I 
 
 ## File Encryption Tool:
 - [Rage, A simple, modern, and secure file encryption tool, using the age format](https://github.com/str4d/rage)
+- [riscv-crypto, RISC-V cryptography extensions standardisation work](https://github.com/riscv/riscv-crypto)
+
+## zk (Zero Knowledge)
+- [wasmsnark, A fast zkSnark proof and verifier and proof generator written in native Web Assembly.](https://github.com/iden3/wasmsnark)
+
+## Linux Security Tools:
+- [sudo-rs, A safety oriented and memory safe implementation of sudo and su written in Rust](https://github.com/memorysafety/sudo-rs)
+- [ebpfguard, a library for managing Linux security policies.](https://github.com/deepfence/ebpfguard)
+- 
 
 ## Signing Tool:
 - [rust-minisign, A pure Rust implementation of the Minisign signature tool](https://github.com/jedisct1/rust-minisign)
@@ -133,6 +137,8 @@ The following are Rust specific projects that I feel are good learning tools, I 
 ## Backend Web Framework:
 - [axum, Ergonomic and modular web framework built with Tokio, Tower, and Hyper](https://github.com/tokio-rs/axum)
 - [actix, Web is a powerful, pragmatic, and extremely fast web framework for Rust](https://github.com/actix/actix-web)
+- [hyper-fast, rust based very fast HTTP Web framework,much faster than actix and other frameworks](https://github.com/hyper-fast/hyper-fast)
+- [salvo, an extremely simple and powerful Rust web backend framework](https://github.com/salvo-rs/salvo)
 
 ## Fullstack Framework:
 - [MoonZoon, Rust Fullstack Framework](https://github.com/MoonZoon/MoonZoon)
@@ -171,6 +177,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 
 ## BitTorrent (v1) Library:
 - [cratetorrent, A BitTorrent V1 engine library for Rust](https://github.com/mandreyel/cratetorrent)
+- [BitTorrent client](https://github.com/gabrieldemian/vincenzo)
 
 ## IPFS Protocol Stack:
 - [iroh, Bytes, distributed](https://github.com/n0-computer/iroh)
@@ -194,6 +201,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 ## File Transfer:
 - [ffsend, Easily and securely share files from the command line](https://github.com/timvisee/ffsend)
 - [magic-wormhole, Rust implementation of Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole.rs)
+- [rdpFX, A simple file explorer that was born because I wanted to learn the Rust language.](https://github.com/RickyDane/rdpFX)
 
 ## Drive:
 - [dufs, distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav](https://github.com/sigoden/dufs)
