@@ -43,9 +43,9 @@ Bors-NG implements a continuous-testing workflow where the main branch never bre
 > The code is Rust,
 > with a compiler that knows.
 > to never trust,
-> the sytnax that still grows.
+> the sytnax that grows.
 
-> Complication, 
+> Complication,
 > is a name of a game.
 > that computation,
 > will reduce just the same.
@@ -53,7 +53,7 @@ Bors-NG implements a continuous-testing workflow where the main branch never bre
 > To clarify,
 > we code what we trust.
 > To simplify,
-> we code it in Rust
+> we code it in Rust.
 
 
 ## Rust Games URLs
