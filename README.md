@@ -3,7 +3,7 @@
 My book (dwulf's manifesto) on Rust, notes, details, and references.
 
 RustWerks is a manifesto for Rust specific development and a complete deep dive into 
-all things Rust.  Rust was bootstrapped from an compiler written in OCaml. 
+all things Rust.  Rust was bootstrapped from an compiler written in [OCaml](https://en.wikipedia.org/wiki/OCaml). 
 The compiler is also not exclusively written in Rust 
 with the actual code generation and low level optimizations happen through the LLVM library, 
 which is written in C++.
