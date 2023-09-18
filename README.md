@@ -5,11 +5,11 @@ My book (dwulf's manifesto) on Rust, notes, details, and references.
 RustWerks is a manifesto for Rust specific development and a complete deep dive into 
 all things Rust.  Rust was bootstrapped from an compiler written in [OCaml](https://en.wikipedia.org/wiki/OCaml). 
 The compiler is also not exclusively written in Rust 
-with the actual code generation and low level optimizations happen through the LLVM library, 
+with the actual code generation and low level optimizations happen through the [LLVM library](https://en.wikipedia.org/wiki/LLVM), 
 which is written in C++.
 
-There is also the mrustc (https://github.com/thepowersgang/mrustc) project that can be used for bootstrapping. 
-It compiles/transpiles Rust into C that can be compiled using something like Clang or GCC.
+There is also the [mrustc](https://github.com/thepowersgang/mrustc) project that can be used for bootstrapping. 
+It compiles/transpiles Rust into C that can be compiled using something like [Clang](https://en.wikipedia.org/wiki/Clang) or [GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection).
 
 Techically speaking, Rust is not "written in anything". It is a language, the syntax, the rules, operations, everything is defined as an abstract concept that eventually is meant to be transcribed to the machine code, that when fed to the computer, does stuff.
 
