@@ -25,13 +25,6 @@ Now you have a compiled executable originally written in Rust that can compile n
 I use Github's dev browser tool
 and VSCode IDE and have found it a great tool for development and git commits
 
-# - [Github Browser Dev Tool](https://github.dev/github/dev)
-The Github Dev Tool is invoked by pointing your browser to a github on github.com,
-and pressing a '.' or the period button on your keyboard.  This will give in browser VSCode IDE
-
-# - [bors-ng](https://github.com/bors-ng/bors-ng)
-Bors-NG implements a continuous-testing workflow where the main branch never breaks. It integrates GitHub pull requests with a tool like Travis CI that runs your tests.
-
 ## In Rust we Trust:
 *~dwulf*
 
@@ -67,6 +60,13 @@ Bors-NG implements a continuous-testing workflow where the main branch never bre
 - [Crates Live](https://crates.live/rand/0.8.4)
 - [Web3-Stack](https://github.com/open-web3-stack/open-runtime-module-library)
 - [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
+
+- [Github Browser Dev Tool](https://github.dev/github/dev)
+The Github Dev Tool is invoked by pointing your browser to a github on github.com,
+and pressing a '.' or the period button on your keyboard.  This will give in browser VSCode IDE
+
+- [bors-ng](https://github.com/bors-ng/bors-ng)
+Bors-NG implements a continuous-testing workflow where the main branch never breaks. It integrates GitHub pull requests with a tool like Travis CI that runs your tests.
 
 ## Rust Projects
 The following are Rust specific projects that I feel are good learning tools, I find that when I read code I can write it better.
