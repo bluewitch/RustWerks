@@ -226,6 +226,4 @@ The following are Rust specific projects that I feel are good learning tools, I 
 ## Packet Sniffer:
 - [wirefish, A blazingly fast multiplatform packet sniffer built with Tauri!](https://github.com/WirefishInc/wirefish)
 ---
-
-
-# [XCM Format (Dr Wood, Parity)](https://github.com/paritytech/xcm-format)
+Everything re-written in Rust.
