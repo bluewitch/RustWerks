@@ -51,7 +51,7 @@ and VSCode IDE and have found it a great tool for development and git commits
 
 ## Resource URLs
 
-- [rust-atomics-and-locks, ](Code examples, data structures, and links from my book, Rust Atomics and Locks)
+- [rust-atomics-and-locks, Code examples, data structures, and links from my book, Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
 - [Writing an OS in Rust ](https://os.phil-opp.com/)
 - [Polkadot Blockchain Academy course material](https://polkadot-blockchain-academy.github.io/pba-book/)
 
