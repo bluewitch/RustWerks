@@ -47,11 +47,7 @@ and VSCode IDE and have found it a great tool for development and git commits
 > we code what we trust.
 > To simplify,
 > we code it in Rust.
-
-
-## Rust Games URLs
-
-
+---
 
 ## Resource URLs
 - [Kerkour Bloom](https://kerkour.com/), Software development and security tips from the field.
