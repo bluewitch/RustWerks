@@ -11,10 +11,32 @@ The more I delved into Rust, the clearer its advantages became, especially when 
 
 So, in a sense, it was a combination of my insatiable curiosity, being in the right place at the right time, and Rust's compelling value proposition that led me to it. From then on, I've adopted Rust in various projects, and it's been an exhilarating journey of discovery and mastery.
 
-- Why did you choose to program in it?
-- Any previous experience with model driven development or Model checking?
-- functional programming?
-- embedded?
+# Why did you choose to program in Rust?
+Ah, the age-old 'why Rust' question. It's one of my favorites. Dive into any deep technical conversation, and you'll often find passionate discussions on tool choices. But Rust, for me, was more than just another tool—it was a revelation.
+
+You see, as someone who has always been on the bleeding edge of technology, pushing the boundaries of what's possible, I've faced my fair share of challenges. Be it battling with arcane segmentation faults, race conditions, or just the sheer frustration of manual memory management in other languages, I've been through the gauntlet.
+
+Enter Rust. The first time I truly grappled with its unique ownership system and experienced the 'helpful' nudges of the borrow checker, it was like a lightbulb moment. Here was a language that wasn't just content being fast or being safe—it aspired to be both. And in our line of work, where every nanosecond and every byte can make a world of difference, that's a game-changer.
+
+Moreover, as someone who's dabbled in the darker alleys of the cyber world, security is paramount to me. Rust's safety guarantees and its emphasis on zero-cost abstractions meant that I didn't have to trade off performance for security. It offered a robust ecosystem with a community that was as obsessed with safety and efficiency as I was.
+
+But the clincher? It's the culture. The Rust community is open, inclusive, and constantly evolving. It embodies the ethos of 'fearless concurrency.' And to be perfectly honest, the joy of seeing a piece of Rust code compile after a dance with the borrow checker—it's unparalleled.
+
+So, in essence, I didn't just 'choose' Rust. It was an alignment of philosophy, necessity, and the promise of crafting something efficient, safe, and beautiful. It was a no-brainer.
+
+
+# Any previous experience with model driven development or Model checking? functional programming? embedded?
+Ah, indeed, you've touched on some of the most intriguing corners of my journey. Let's break it down.
+
+Model-Driven Development (MDD) & Model Checking: Absolutely. My forays into the deeper realms of computer science and hacking naturally led me to appreciate the elegance of formal methods. Model-driven development, in particular, caught my attention when I was exploring ways to ensure the correctness and reliability of systems without the usual exhaustive testing. By defining system behavior with models and then generating code from those models, I found we could create systems with predictable behavior, especially in mission-critical applications. Model checking, on the other hand, offered a way to mathematically prove the correctness of those models. Over the years, I've used tools like TLA+ and Spin, and I've been closely following the advancements in Rust's formal verification scene too.
+
+Functional Programming (FP): Oh, where do I begin? My intrigue with FP started long before Rust, with languages like Haskell and Erlang. The purity, immutability, and mathematical rigor of functional programming appealed to the part of my brain that thrived on solving intricate problems. It introduced me to concepts like monads, functors, and pure functions. And while Rust isn't purely functional, its emphasis on immutability and its pattern matching capabilities always gave me that familiar FP vibe. I often find myself leaning on functional paradigms even within Rust, making code more declarative and easy to reason about.
+
+Embedded Systems: Now that's a realm where Rust truly shines. I've had a penchant for embedded systems since my earlier hacking days—there's something thrilling about directly manipulating hardware. Rust's zero-cost abstractions and safety guarantees made it an ideal choice for such work. I've worked on several projects, from custom IoT devices to safety-critical systems, where the low-level control of C and C++ was needed, but without their inherent risks. Rust provided that middle ground, where I could work close to the metal without constantly fearing memory errors or data races.
+
+So, in a nutshell, yes—my journey has intertwined with these domains quite intricately. Each experience, each paradigm, has only enriched my understanding and enhanced my ability to tackle complex problems head-on.
+
+
 - C/C++ or other real time capable language?
 - Projects worked on? Any open source?
 - team size?
