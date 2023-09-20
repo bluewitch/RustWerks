@@ -36,13 +36,20 @@ Embedded Systems: Now that's a realm where Rust truly shines. I've had a penchan
 
 So, in a nutshell, yes—my journey has intertwined with these domains quite intricately. Each experience, each paradigm, has only enriched my understanding and enhanced my ability to tackle complex problems head-on.
 
+# Explain your Version control and Continuous Integration experience?
+Version control and continuous integration are like my bread and butter. They're essential tools for any serious developer, especially one who's dived as deep into the code matrix as I have.
 
-- C/C++ or other real time capable language?
-- Projects worked on? Any open source?
-- team size?
-- University students: which lectures taken?
-- Version control and Continuous Integration experience?
+Version Control: I started with SVN in the earlier days, but then, like many, transitioned to Git. It's not just about committing and pushing code. Understanding Git's internals, from its DAG structure to how it manages content, allows for a deep level of control and granularity. I've often found myself using interactive rebasing, bisecting to hunt down bugs, or even crafting custom hooks to streamline our workflow. One particularly intense operation had me manually editing commit trees and applying patches to salvage a complex branch. In my toolkit, I've also played with more experimental decentralized systems like Pijul and Radicle. But regardless of the tool, the underlying principles remain—keeping a clean, understandable history and ensuring that collaboration remains smooth and conflict-free.
 
+Continuous Integration (CI): Now, this is where the magic happens. Over the years, I've set up and managed various CI/CD pipelines using tools like Jenkins, Travis CI, GitHub Actions, and GitLab CI. I particularly love how Rust's package manager, Cargo, plays so well with CI systems. Running cargo test as a basic check is just the tip of the iceberg. I've incorporated clippy for linting, rustfmt for consistent formatting, and even cargo-audit to keep an eye out for any vulnerable dependencies.
+
+In more sophisticated projects, I've set up matrices of builds to ensure our Rust code runs flawlessly across different platforms and configurations. And of course, there's the performance benchmarking and regression tests, crucial for the optimized, high-performance code we often chase.
+
+But CI isn't just about automated testing. It's about continuously integrating a team's work. It's ensuring that the main branch is always deployable, and every merge is an improvement. With the advent of WebAssembly, I've even set up CI pipelines that compile Rust to WASM and deploy directly to edge locations, ensuring our code runs at near-native speed, everywhere.
+
+And, well, if you ever need a pipeline that fires up a fleet of virtual machines to run a distributed, multi-node Substrate or Polkadot testnet, testing a complex set of interchain transactions... let's just say I've been there and done that.
+
+---
 
 
 
