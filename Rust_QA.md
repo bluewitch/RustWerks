@@ -1,6 +1,16 @@
 # Rust_QA.md
 
-- How did you hear about Rust?
+# How did you hear about Rust?
+Well, it's a bit of a journey down memory lane, but I'm glad you asked. Back in the day, I spent a considerable amount of time delving deep into various forums, GitHub repositories, and open-source projects. My primary interest was always optimizing performance and ensuring utmost security. I've always believed that efficient software shouldn't have to compromise on safety and vice versa.
+
+One evening, while traversing the labyrinth of a particular forum known for its forward-thinking discussions, I stumbled upon a heated debate about modern programming languages and their ability to handle concurrency without sacrificing safety. That was the first time I heard about Rust.
+
+The idea of a language that promised both performance and memory safety, without a garbage collector, intrigued me. It sounded almost too good to be true. But as I dove into the Rust Book and started tinkering with the language, I realized it wasn't just hype. Rust's ownership model and its 'borrow checker' were revolutionary. The compiler, affectionately named 'rustc,' became my strictest teacher and my closest ally, guiding me away from potential pitfalls and ensuring my code was safe and efficient.
+
+The more I delved into Rust, the clearer its advantages became, especially when working on projects where concurrency, low-level systems programming, or embedded software were involved.
+
+So, in a sense, it was a combination of my insatiable curiosity, being in the right place at the right time, and Rust's compelling value proposition that led me to it. From then on, I've adopted Rust in various projects, and it's been an exhilarating journey of discovery and mastery.
+
 - Why did you choose to program in it?
 - Any previous experience with model driven development or Model checking?
 - functional programming?
