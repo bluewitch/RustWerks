@@ -135,6 +135,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 - [yew, Rust / WASM framework for building client web apps](https://github.com/yewstack/yew)
 
 ## Backend Web Framework:
+- [rocket, A web framework for Rust](https://github.com/SergioBenitez/Rocket)
 - [axum, Ergonomic and modular web framework built with Tokio, Tower, and Hyper](https://github.com/tokio-rs/axum)
 - [actix, Web is a powerful, pragmatic, and extremely fast web framework for Rust](https://github.com/actix/actix-web)
 - [hyper-fast, rust based very fast HTTP Web framework,much faster than actix and other frameworks](https://github.com/hyper-fast/hyper-fast)
