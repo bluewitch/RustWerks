@@ -50,6 +50,14 @@ and VSCode IDE and have found it a great tool for development and git commits
 ---
 
 ## Resource URLs
+
+- [rust-atomics-and-locks, ](Code examples, data structures, and links from my book, Rust Atomics and Locks)
+- [Writing an OS in Rust ](https://os.phil-opp.com/)
+- [Polkadot Blockchain Academy course material](https://polkadot-blockchain-academy.github.io/pba-book/)
+
+- [Hands on Rust(book)](https://bfnightly.bracketproductions.com/chapter_0.html)
+- []()
+
 - [Kerkour Bloom](https://kerkour.com/), Software development and security tips from the field.
 - [Blackhat Rust Github](https://github.com/skerkour/black-hat-rust), Code for the book
 - [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
