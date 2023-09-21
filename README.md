@@ -51,26 +51,31 @@ and VSCode IDE and have found it a great tool for development and git commits
 
 ## Resource URLs
 
-- [rust-atomics-and-locks, Code examples, data structures, and links from my book, Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
-- [Writing an OS in Rust ](https://os.phil-opp.com/)
+
+
+
+# Books and Cheatsheets
+- [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
+- [Blackhat Rust Github(book)](https://github.com/skerkour/black-hat-rust), Code for the book
+- [Hands on Rust(book)](https://bfnightly.bracketproductions.com/chapter_0.html)
+
+# Courses
+- [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
 - [Polkadot Blockchain Academy course material](https://polkadot-blockchain-academy.github.io/pba-book/)
 
-- [Hands on Rust(book)](https://bfnightly.bracketproductions.com/chapter_0.html)
-- []()
-
+# misc, etc.
+- [rust-atomics-and-locks, Code examples, data structures, and links from my book, Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks)
+- [Writing an OS in Rust ](https://os.phil-opp.com/)
 - [Kerkour Bloom](https://kerkour.com/), Software development and security tips from the field.
-- [Blackhat Rust Github](https://github.com/skerkour/black-hat-rust), Code for the book
-- [Rust Cheats](https://cheats.rs/), Cheat Sheet for Rust
 - [Crates Live](https://crates.live/rand/0.8.4)
 - [Web3-Stack](https://github.com/open-web3-stack/open-runtime-module-library)
-- [Comprehensive Rust 🦀, a multi-day Rust course developed by the Android](https://github.com/google/comprehensive-rust)
-
 - [Github Browser Dev Tool](https://github.dev/github/dev)
 The Github Dev Tool is invoked by pointing your browser to a github on github.com,
 and pressing a '.' or the period button on your keyboard.  This will give in browser VSCode IDE
-
 - [bors-ng](https://github.com/bors-ng/bors-ng)
 Bors-NG implements a continuous-testing workflow where the main branch never breaks. It integrates GitHub pull requests with a tool like Travis CI that runs your tests.
+
+---
 
 ## Rust Projects
 The following are Rust specific projects that I feel are good learning tools, I find that when I read code I can write it better.
