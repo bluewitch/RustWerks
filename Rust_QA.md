@@ -153,24 +153,3 @@ cargo new creates a new project with Cargo. Below is the syntax to create a samp
  $ cargo new project_name --bin
 
 
-
-Oleksii
-
-Strong fundimentals, Linux skills knows Rust core, and has implimented rust specific projects from other languages.  A big plus.
-
-Intergrates CI/CD in his work, very open to converstations and dialog to fix issues, concearn about the work, not about the ego good to work with
-
-Would like to see more on his Substrate, specifically with pallets (what we are working with), we can teach this he is very comunicatable.
-
-Good for a junior role, and can bring to mid level quickly.  Strong fundimentals.
-
-
-Dusan
-
-He is comming from Ethereum, solidity and has been working on professional projects related to Ethereum for the energy sector.
-
-He is very enthusiastic about going more into Substrate and Rust, but is abit new in the Substrate and Rust department.  Has solid first principles, but does not intergrate CI/CD as much in his internal methdologies. 
-
-Good area knowledge of Blockchain, but I am unclear of his Rust specific focus.
-
-
