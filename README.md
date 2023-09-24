@@ -94,6 +94,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 ## Operating System:
 - [Theseus, is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧](https://github.com/theseus-os/Theseus)
 - [Redox, is an operating system written in Rust](https://github.com/redox-os/redox)
+- [nix, Rust friendly bindings to *nix APIs](https://github.com/nix-rust/nix)
 
 ## Game Engine:
 - [Bevy Game Engine org site](https://bevyengine.org/)
