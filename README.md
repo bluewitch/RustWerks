@@ -50,7 +50,13 @@ and VSCode IDE and have found it a great tool for development and git commits
 ---
 
 ## Resource URLs (Rust Core)
+### Install the rust toolchain
 - ```curl https://sh.rustup.rs | sh```
+
+###  Install Rustlings, the best way to learn Rust
+- ```curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash```
+
+### THE BOOK
 - [The Book (Rust Bible)](https://doc.rust-lang.org/book/)
 
 # Books and Cheatsheets
