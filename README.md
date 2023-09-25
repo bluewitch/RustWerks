@@ -50,6 +50,7 @@ and VSCode IDE and have found it a great tool for development and git commits
 ---
 
 ## Resource URLs (Rust Core)
+- ```curl https://sh.rustup.rs | sh```bash
 - [The Book (Rust Bible)](https://doc.rust-lang.org/book/)
 
 # Books and Cheatsheets
