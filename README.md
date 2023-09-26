@@ -131,7 +131,7 @@ The following are Rust specific projects that I feel are good learning tools, I 
 ## Linux Security Tools:
 - [sudo-rs, A safety oriented and memory safe implementation of sudo and su written in Rust](https://github.com/memorysafety/sudo-rs)
 - [ebpfguard, a library for managing Linux security policies.](https://github.com/deepfence/ebpfguard)
-- 
+- [vaultwarden, Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
 
 ## Signing Tool:
 - [rust-minisign, A pure Rust implementation of the Minisign signature tool](https://github.com/jedisct1/rust-minisign)
